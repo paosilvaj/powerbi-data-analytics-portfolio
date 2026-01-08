@@ -68,4 +68,4 @@ El objetivo es analizar la evolución de las ventas mediante comparaciones tempo
 ![Dashboard](screenshots/Analisis_1.png)
 ![Dashboard](screenshots/Resumen_1.png)
 ![Model](screenshots/Modelo_1.png)
-![DAX](screenshots/Dax_1png)
+![DAX](screenshots/Dax_1.png)
