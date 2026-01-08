@@ -62,3 +62,10 @@ El objetivo es analizar la evolución de las ventas mediante comparaciones tempo
 - Power BI Desktop
 - DAX (time intelligence)
 - Modelado de datos
+
+## Screenshots
+
+![Dashboard](screenshots/Analisis_1.png)
+![Dashboard](screenshots/Resumen_1.png)
+![Model](screenshots/Modelo_1.png)
+![DAX](screenshots/Dax_1png)
