@@ -44,7 +44,7 @@ Incluye tanto proyectos personales como ejercicios académicos y de formación, 
 ## Sales Performance & Time Intelligence Dashboard (Power BI)
 ![Dashboard](sales-performance-dashboard/screenshots/Analisis_1.png)
 ![Dashboard](sales-performance-dashboard/screenshots/Resumen_1.png)
-![Model](sales-performance-dashboardscreenshots/Modelo_1.png)
+![Model](sales-performance-dashboard/screenshots/Modelo_1.png)
 ![DAX](sales-performance-dashboard/screenshots/Dax_1.png)
 
 ## Revenue Analysis by Region & Product (Power BI)
